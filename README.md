@@ -1,5 +1,18 @@
 <h2 align="left">Hi 👋! My name is Krithiga, and I'm a passionate software developer</h2>
 
+
+
+💡I love building applications that solve real-world problems, exploring cutting-edge technologies, and constantly learning new skills. Currently diving into:
+
+🔹 Machine Learning 🤖
+🔹 React & Angular ⚛️
+🔹 Core Java & Backend Development ☕
+🔹 Game Development (Unity, Blender) 🎮
+
+💬 Ask me about: Tech, Web Development, Game Dev, or anything cool!
+
+📫 How to reach me: krithigamoorthy1@gmail.com
+
 ###
 
 <div align="center">
