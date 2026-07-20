@@ -1,17 +1,27 @@
-<h2 align="left">Hi 👋! My name is Krithiga, and I'm a passionate software developer</h2>
+<h2 align="left">Hi 👋! I'm Krithiga Thachanamoorthy</h2>
 
+<p align="left">
+Software Engineering undergraduate at the University of Westminster, passionate about building scalable software solutions and AI-powered applications.
+</p>
 
+<p align="left">
+I enjoy working across full-stack development, backend engineering, and emerging AI technologies. I have experience building web applications, automation solutions, and AI-integrated systems.
+</p>
 
-💡I love building applications that solve real-world problems, exploring cutting-edge technologies, and constantly learning new skills. Currently diving into:
+Currently exploring:
 
-🔹 Machine Learning 🤖
-🔹 React & Angular ⚛️
-🔹 Core Java & Backend Development ☕
-🔹 Game Development (Unity, Blender) 🎮
+🔹 Large Language Models (LLMs) & Generative AI 🤖  
+🔹 Retrieval-Augmented Generation (RAG)  
+🔹 React, Angular & Full-Stack Development ⚛️  
+🔹 Backend Development with Python, Java & FastAPI ☕  
+🔹 Game Development with Unity & Blender 🎮  
 
-💬 Ask me about: Tech, Web Development, Game Dev, or anything cool!
+💬 Ask me about: Software Engineering, Web Development, AI Applications, or Game Development.
 
-📫 How to reach me: krithigamoorthy1@gmail.com
+📫 Reach me:
+- LinkedIn: https://www.linkedin.com/in/krithiga-thachanamoorthy-667900293/
+- Portfolio: https://krithiga.netlify.app
+- Email: krithigamoorthy1@gmail.com
 
 ###
 
@@ -67,4 +77,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Krithi757/Krithi757/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/KrithigaThachanamoorthy/KrithigaThachanamoorthy/output/snake.svg" />
